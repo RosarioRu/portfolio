@@ -34,8 +34,8 @@ body {
   /* float:left; */
 }
 
-.sidebar {
-  float: right;
+.funfacts {
+  /* float: right; */
   
 }
 
@@ -57,5 +57,19 @@ body {
 .wresort {
   width:20%;
   float:left;
-  
+}
+
+.fwebpage {
+  width:20%;
+  float:left;
+}
+
+.pwebsite {
+  width:20%;
+  float:left;
+}
+
+.recipe {
+  width:20%;
+  float:left;
 }
