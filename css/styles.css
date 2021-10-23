@@ -2,7 +2,32 @@ body {
   background-color:whitesmoke;
 }
 
-img {
+/* img {
   width: 25%;
   height:auto;
+} */
+
+.aboutme {
+
+}
+
+.aboutme img {
+  width:25%;
+  height:auto;
+}
+
+.sidebar {
+
+}
+
+.works {
+
+}
+
+.works p {
+
+}
+
+.works li {
+
 }
