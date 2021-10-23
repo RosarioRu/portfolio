@@ -35,20 +35,27 @@ body {
 }
 
 .sidebar {
+  float: right;
   
-  
-
 }
 
 .works {
   float:left;
-  width:65%;
+  
 }
 
 .works p {
 
 }
 
-.works li {
+.ashelter {
+  width:20%;
+  float:left;
+  
+}
 
+.wresort {
+  width:20%;
+  float:left;
+  
 }
