@@ -19,10 +19,18 @@ body {
   /* text-align: center; */
 }
 
+.aboutme h2 {
+  text-align:center;
+}
+
+
+
 .aboutme p {
-  width:85%;
-  font-style:italic;
-  text-align: center;
+  /* width:80%; */
+  /* font-style:no; */
+  text-align:enter;
+  border:2px solid black;
+  padding:5px;
  
 }
 
@@ -30,13 +38,18 @@ body {
   width:25%;
   height:auto;
   float:left;
-  
+  border:2px solid black;  
   /* float:left; */
 }
 
 .funfacts {
-  /* float: right; */
-  
+  border:2px solid rgb(13, 73, 13);
+  float:right;
+  width:19%;
+
+}
+
+.funfacts ol {
 }
 
 .works {
@@ -48,23 +61,23 @@ body {
 
 }
 
-.ashelter {
+.shelter {
   width:20%;
   float:left;
   
 }
 
-.wresort {
+.resort {
   width:20%;
   float:left;
 }
 
-.fwebpage {
+.webpage {
   width:20%;
   float:left;
 }
 
-.pwebsite {
+.zen {
   width:20%;
   float:left;
 }
