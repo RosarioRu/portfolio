@@ -7,21 +7,42 @@ body {
   height:auto;
 } */
 
-.aboutme {
+/* .boxforcolumns {
+  width:90%;
+ 
+} */
 
+
+.aboutme {
+  float:left;
+  width:75%;
+  /* text-align: center; */
+}
+
+.aboutme p {
+  width:85%;
+  font-style:italic;
+  text-align: center;
+ 
 }
 
 .aboutme img {
   width:25%;
   height:auto;
+  float:left;
+  
+  /* float:left; */
 }
 
 .sidebar {
+  
+  
 
 }
 
 .works {
-
+  float:left;
+  width:65%;
 }
 
 .works p {
