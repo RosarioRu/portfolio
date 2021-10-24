@@ -29,7 +29,7 @@ body {
 
 .aboutme p {
   text-align:center;
-  line-height: 1.3em;
+  line-height: 1.4em;
 }
 
 .important {
@@ -55,27 +55,53 @@ body {
   background-color:rgba(245, 245, 245, 0.836);
 }
 
+.works h2 {
+  border:1px;
+  border-color:rgba(245, 245, 245, 0.836);
+  margin-top:2%;
+}
+
 .shelter {
-  width:20%;
+  width:18%;
   float:left;
+  border:1px;
+  border-color:rgba(245, 245, 245, 0.836);
+  margin:1%;
+  margin-top: -1%;
 }
 
 .resort {
-  width:20%;
+  width:18%;
   float:left;
+  border:1px;
+  border-color:rgba(245, 245, 245, 0.836);
+  margin:1%;
+  margin-top: -1%;
 }
 
 .webpage {
-  width:20%;
+  width:18%;
   float:left;
+  border:1px;
+  border-color:rgba(245, 245, 245, 0.836);
+  margin:1%;
+  margin-top: -1%;
 }
 
 .zen {
-  width:20%;
+  width:18%;
   float:left;
+  border:1px;
+  border-color:rgba(245, 245, 245, 0.836);
+  margin:1%;
+  margin-top: -1%;
 }
 
 .recipe {
-  width:20%;
+  width:18%;
   float:left;
+  border:1px;
+  border-color:rgba(245, 245, 245, 0.836);
+  margin:1%;
+  margin-top: -1%;
 }
