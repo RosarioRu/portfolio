@@ -29,5 +29,3 @@ _The Portfolio landing page displays basic information about coding student and 
 MIT License
 
 Copyright (c) _Oct. 2021_ _Rosario Ruvalcaba H_
-
-_Please feel free to contact me at mariarruval@gmail.com_
